@@ -1,1 +1,1 @@
-# simple-doober-rate-calculator-example-in-python
+Simple Dober tariff calculator example in Python.
